@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Crypto Sandbox</string>
+    <string name="title_home">Home</string>
+    <string name="title_wallets">Wallets</string>
+    <string name="title_settings">Settings</string>
+
+    <string-array name="crypto_currencies">
+        <item>BTC</item>
+        <item>ETH</item>
+        <item>USDT</item>
+        <item>XLM</item>
+        <item>XRP</item>
+        <item>ADA</item>
+        <item>LTC</item>
+        <item>LINK</item>
+        <item>BCH</item>
+        <item>USDC</item>
+    </string-array>
+
+</resources>
